@@ -1,0 +1,9 @@
+It's a pratice for construting resnet
+Need download somewhere:
+
+datasets/ 
+test_signs.h5
+train_sign.h5
+
+/
+ResNet50.h5
